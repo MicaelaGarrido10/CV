@@ -10,11 +10,19 @@
 .grid {
     display: grid;
     grid-template-columns: 200px 700px;
-    padding: 1em;
+    padding: 2em;
+    
 
 
 }
 
-.anidado.grid {
+.anidado-grid {
+    text-align: ;
+    
 
+}
+
+h4 {
+    text-decoration-line: underline;
+    text-decoration-color: gainsboro;
 }
