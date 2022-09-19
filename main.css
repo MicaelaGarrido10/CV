@@ -22,6 +22,12 @@
 
 }
 
+image {
+    border-color: darkgrey;
+    border-radius: 45%;
+
+}
+
 h4 {
     text-decoration-line: underline;
     text-decoration-color: gainsboro;
