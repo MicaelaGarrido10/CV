@@ -30,7 +30,7 @@
     
 }
 
-image {
+.image {
     border-color: darkgrey;
     border-radius: 45%;
 
@@ -39,5 +39,15 @@ image {
 h4 {
     text-decoration-line: underline;
     text-decoration-color: gainsboro;
+}
+
+.skill_bar,
+.skill_bar::after {
+    position: relative ;
+    width: 150px;
+    height: 8px;
+    background-color: darkgray;
+    border-radius: var(--border-radius);
+    
 }
 
