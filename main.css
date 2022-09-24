@@ -33,6 +33,7 @@
 .image {
     border-color: darkgrey;
     border-radius: 45%;
+    float: left;
 
 }
 
